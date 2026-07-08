@@ -1,6 +1,6 @@
 # 🛒 Automatización Web Demoblaze
 
-Proyecto académico de automatización web realizado con **Java, Selenium WebDriver, Cucumber, JUnit, Serenity BDD y Screenplay**.
+Proyecto de automatización web realizado con **Java, Selenium WebDriver, Cucumber, JUnit, Serenity BDD y Screenplay**.
 
 El objetivo de este proyecto es automatizar un flujo básico de compra en la página **Demoblaze**, validando que un usuario pueda iniciar sesión, seleccionar un producto, agregarlo al carrito y confirmar que el producto se visualice correctamente.
 
@@ -132,4 +132,4 @@ Esto confirma que el producto **Samsung Galaxy S6** fue agregado correctamente a
 ## 👨‍💻 Autor
 
 **Rodolfo Coria**  
-Proyecto académico de Automatización Web QA.
+Proyecto de Automatización Web QA.
